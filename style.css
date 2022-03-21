@@ -1,0 +1,75 @@
+.site-img
+{
+    width: 351;
+    height: 113;
+    text-align: center;
+}
+.selection
+{
+    width: 90%;
+    margin:0 auto 0 auto;
+}
+.searcharea
+{
+    text-align: center;
+}
+#button
+{
+   
+    left: auto;
+    right: auto;
+    margin: 0.5rem;
+}
+.boxes
+{
+    float: left;
+}
+.box-area
+{
+    width: 100%;
+    height: 75px;
+    
+}
+.div-start
+{
+    height: 100%;
+    width: 40%;
+    background-color: #7EE5DA;
+    float: inline-start;
+}
+.startlist
+{
+    
+    margin-top: 12px;
+    list-style-type: none;
+    text-align: center;
+    /* margin-top: 25px; */
+    text-align: center;
+}
+.div-center
+{
+    width: 19.88%;
+    height: 100%;
+    background-color: #70ccc2;
+    margin: auto 1px auto 1px;
+    
+}
+.centerlist
+{
+    margin: 0;
+    list-style-type: none;
+    text-align: center;
+}
+.div-end
+{
+    width: 40%;
+    height: 100%;
+    background-color: #62B3AA;
+    
+}
+.endlist
+{
+    margin: 0;
+    list-style-type: none;
+    text-align: center;
+}

@@ -1,9 +1,8 @@
 ## Google 1978 project
 
-This poject about old Google website view. 
+Kodluyoruz patika.dev üzerinden aldığım CSS patikası bitirme ödevi. Bu ödevde Google'ın 1998 yılı görünümünü HTML&CSS kullanarak elimden geldiğince oluşturmaya çalıştım.
 
-This is not responsive design thats wrong but this is my first project and i think this worng is normally.
 
-Project view.
+### Proje ön izlemesi
 
 ![Project](pics/project-pic.jpg)
